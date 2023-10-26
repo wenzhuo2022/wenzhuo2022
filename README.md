@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 [![An image of @wenzhuo2022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wenzhuo2022)](https://holopin.io/@wenzhuo2022)
 
-<div style="position: relative; padding-bottom: calc(56.81216931216932% + 41px); height: 0;"><iframe src="https://demo.arcade.software/r6dDc3eLjVfcrx2yGZnQ?embed" frameborder="0" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;color-scheme: light;"></iframe></div>
